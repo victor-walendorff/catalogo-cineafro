@@ -1,0 +1,12 @@
+{
+  "name": "catalogo-cineafro",
+  "version": "1.0.0",
+  "description": "Catálogo interativo com TypeScript sobre cinema e memória negra",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
